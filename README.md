@@ -7,3 +7,6 @@
 
 ## 文档编辑工具
 * [Markdown文档指南](http://xianbai.me/learn-md/article/syntax/links.html)
+
+## 版本管理工具
+* [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
